@@ -77,5 +77,3 @@ This project performs **sentiment analysis on drug reviews** using machine learn
 This project is for educational purposes.
 
 ---
-
-If you want, I can make a **more advanced README (with badges, screenshots, and model results visualization)** to make your GitHub look more professional.
